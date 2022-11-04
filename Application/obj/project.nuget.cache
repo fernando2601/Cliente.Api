@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ezpawBVALel78G5mzcyzPIvyWuyfSdOd8eCyEbxOTd1+057h5oSoPTVR5PwDm1xlkvtxQ/aXE2macdRA0Z7kLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nerif\\source\\repos\\Cliente.Api\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nerif\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

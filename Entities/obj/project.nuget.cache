@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gX8HcK8+koOoq6JE20J8l2vjLluMMYuNytPS3AW7/tMcqDcu3flrZcVA2OtjTLWOHHiMx8QMQlmx1Iq5a4qbCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nerif\\source\\repos\\Cliente.Api\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nerif\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\nerif\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
